@@ -13,6 +13,15 @@
 
 ### Задание 2
 
+![alt text](https://github.com/AleksandrBakunin/SQL_Replication_1/blob/main/img/%D0%A0%D0%B5%D0%BF%D0%BB%20%D0%B8%20%D0%BC%D0%B0%D1%81%D1%88%20%D1%87.1.PNG)
 
 
+Сконфигурированные master и slave машины, репликация работает, ошибок нет.
+
+
+
+![alt text](https://github.com/AleksandrBakunin/SQL_Replication_1/blob/main/img/%D0%A0%D0%B5%D0%BF%D0%BB%20%D0%B8%20%D0%BC%D0%B0%D1%81%D1%88%20%D1%87.1%20-%202.PNG)
+
+
+Конфигурационные файлы my.cnf мастер и слейв серверов.
 ---
